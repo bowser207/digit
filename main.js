@@ -20,5 +20,6 @@
     function draw_c()
     {
       fill(255, 0, 0);
-      stroke(255, 255, 0)
+      stroke(255, 255, 0);
+      circle(145, 165, 75);
     }
